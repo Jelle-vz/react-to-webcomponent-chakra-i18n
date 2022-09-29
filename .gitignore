@@ -11,7 +11,7 @@
 # production
 /build
 
-dist
+#dist // Add everything in dist to repo for now to make it work out of the box
 
 # misc
 .DS_Store
